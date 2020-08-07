@@ -12,11 +12,11 @@ redirect_from:
 ## Education
 ======<br/>
 **University of Otago** (Dunedin, New Zealand)\
-    Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March)\
 **University of Minnesota** (Minnesota, United States)\
-    M.B.A., Carlson Fund Enterprise, 2015\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.B.A., Carlson Fund Enterprise, 2015\
 **Foreign Trade University** (Ho Chi Minh, Vietnam), 2010\
-    B.S. International Business Economics, 2010\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S. International Business Economics, 2010\
 
 
 ## Work experience
