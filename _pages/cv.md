@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Finance, Univeristy of Otago, New Zealand,  2021 (expected March) 
-* M.B.A (Finance), University of Minnesota, U.S., 2015 
-* B.S. in International Business Economics, Foreign Trade University, Vietnam, 2010
+* University of Otago (Dunedin, New Zealand)
+  * Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March) 
+* University of Minnesota (Minnesota, United States), 2015 
+  * M.B.A., Carlson Fund Enterprise 
+* Foreign Trade University (Ho Chi Minh, Vietnam), 2010 
+  * B.S. International Business Economics
 
 
 Work experience
