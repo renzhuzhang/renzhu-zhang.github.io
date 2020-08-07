@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Quyen Nguyen"
   avatar           : "download.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student, University of Otago"
+  location         : "New Zealand"
   employer         :
-  pubmed           : "https://scholar.google.co.nz/citations?user=zCEcVrIAAAAJ&hl=en"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.nz/citations?user=zCEcVrIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
