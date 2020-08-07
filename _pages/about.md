@@ -10,7 +10,9 @@ redirect_from:
 
 About me
 ======
-I am currently in my final year in the Finance PhD program at the department of Accountancy & Finance in the University of Otago. My research topic focuses on assessing the impact of climate change to financial stability. 
+I am currently in my final year in the Finance PhD program at the department of Accountancy & Finance in the University of Otago. 
+
+My research topic focuses on assessing the impact of climate change to financial stability. 
 
 Prior to joining the University of Otago, I completed my MBA program with focus on Finance in the University of Minnesota, US. I completed my program in June 2015. While there I joined the Carlson Investment Fund, a student investment fund with total asset under management of US$ 20 million with focus in small cap stocks. I have developed strong fundamental knowledge about Finance and Investment during that time, and have completed the CFA Level I by the time of my graduation.  
 
