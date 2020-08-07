@@ -57,9 +57,9 @@ redirect_from:
   * Conducted annual financial risk report for the institution.  Researched insurance coverage, analyzed insurance premium, asset value and loss. Interviewed business owners on risk mitigation plans, benchmarked with other institutions and state insurance plans.   
   
 **Intel Corporation** (Ho Chi Minh, Vietnam)\
-&nbsp;&nbsp;&nbsp;*Senior Finance Analyst, Risk Management*, April 2013 - July 2013
-&nbsp;&nbsp;&nbsp;*Finance Analyst, Risk Management*, October 2010 - April 2013
-	* Led annual risk assessment project. Acted as a risk consultant for two critical new  product readiness projects at Intel Vietnam. Led cross-functional custom compliance project to ensure tax-privilege status for the company.  
+&nbsp;&nbsp;&nbsp;*Senior Finance Analyst, Risk Management*, April 2013 - July 2013\
+&nbsp;&nbsp;&nbsp;*Finance Analyst, Risk Management*, October 2010 - April 2013\
+  * Led annual risk assessment project. Acted as a risk consultant for two critical new  product readiness projects at Intel Vietnam. Led cross-functional custom compliance project to ensure tax-privilege status for the company.  
   * Analyzed business processes to ensure Sarbane Oxley 404 compliance, recommend process improvements and find cost-saving opportunities. 
  
 
