@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my final year in the Finance PhD program in the University of Otago, New Zealand. My thesis title is **"Climate Risks in Financial Institution"**, under the supervision of: [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), [Dr Duminda Kuruppuarachchi](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), and [Dr Matthew McCarten](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html). 
+I am currently in my final year in the Finance PhD program in the University of Otago, New Zealand. My thesis title is **"Climate Risks in Financial Institution"**, under the supervision of: 
+* Associate Professor Ivan Diaz-Rainey [(link)](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html)
+* Dr Duminda Kuruppuarachchi [(link)](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html)
+* Dr Matthew McCarten [(link)](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html). 
 
 My research focuses on assessing the impact of climate change to financial stability. Specifically, it involves the assessment of transtional risks (i.e. carbon emissions) and phyiscal risks (i.e. sea level rise) on the largest U.S. banks. This involves a mix of cross-discipline modelling skill sets, from credit risk analysis, spatial modelling,  machine learning prediction and financial stress testing. 
 
