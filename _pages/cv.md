@@ -19,8 +19,8 @@ redirect_from:
 
 
 ## Experience
-* **University of Otago** (Dunedin, New Zealand)\ 
-&nbsp;*Ph.D.Researcher, Climate Risks in Financial Institutions*, February 2018 - Present 
+**University of Otago** (Dunedin, New Zealand)\
+&nbsp;&nbsp;*Ph.D.Researcher, Climate Risks in Financial Institutions*, February 2018 - Present 
   * Explored the applications of machine-learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests to proxy for climate risk in finance 
   * Developed a bottom-up financial stress test to examine the potential risks of US banks across climate scenarios using lending activities in the corporate loan portfolios 
   * Analyzed the impact of climate risks on firm-level creditworthiness using probability of defaults, credit rating and credit default swap 
