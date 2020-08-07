@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* University of Otago (Dunedin, New Zealand)
-  * Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March) 
-* University of Minnesota (Minnesota, United States), 2015 
-  * M.B.A., Carlson Fund Enterprise 
-* Foreign Trade University (Ho Chi Minh, Vietnam), 2010 
-  * B.S. International Business Economics
+**University of Otago** (Dunedin, New Zealand)
+  Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March) 
+**University of Minnesota** (Minnesota, United States)
+  M.B.A., Carlson Fund Enterprise, 2015  
+**Foreign Trade University** (Ho Chi Minh, Vietnam), 2010 
+  B.S. International Business Economics, 2010
 
 
-Work experience
+## Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
