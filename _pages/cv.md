@@ -72,11 +72,19 @@ redirect_from:
 * Risk assessment 
 
 ## Working Papers & Publications
-**Climate Risks in Loan Portfolios** ((Working Paper) 
-	* This paper examines financial institutions’ exposure to climate transition risk using a bottom-up methodology. The study measures the transition profile of US banks via their carbon footprint and the incremental probability of default of their borrowers via a climate stress test under various transition pathways (1.5oC vs 2oC)  
- 
-  
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Climate Risks in Loan Portfolios** (Working Paper, May 2020)
+* This paper examines financial institutions’ exposure to climate transition risk using a bottom-up methodology. The study measures the transition profile of US banks via their carbon footprint and the incremental probability of default of their borrowers via a climate stress test under various transition pathways (1.5<sup>o</sup>C vs 2<sup>o</sup>C)  
+
+**Predicting Corporate Carbon Footprints For Climate Finance Risk Analyses** (Working Paper, May 2020)
+* This paper explores the application of machine learning algorithms and stacked generalization to develop a prediction model for corporate carbon emissions with publicly available data. The paper is important in the context of limited disclosure about firm-level carbon emissions and increased interests about climate risks among financial mainstream
+
+**Impacts of Sea Level Rise on Dunedin Residential Properties** (Working Paper, May 2020)
+* This paper examines the impacts of sea level rise on the values of the Dunedin residential properties. The analysis includes two core components. The first component analyzes the impact of 2015 June Flood on the local house prices. The second component models the impact of sea level rises on the probability of flooding using a bathtub model with Monte Carlo simulation and geographic information system (ArcGIS). 
+
+## Services & Leadership
+**Southern Heritage Trust** (Dunedin, New Zealand)\
+&nbsp;&nbsp;&nbsp;&nbsp;Financial Volunteer Consultant,  March 2018 – Present\
+**Nonviolent Peaceforce** (Minnesota, United States)\
+&nbsp;&nbsp;&nbsp;&nbsp;M.B.A., Financial Volunteer Consultant, Jun 2014- Oct 2014
+
+
