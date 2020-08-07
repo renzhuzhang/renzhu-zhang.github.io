@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Finance, Univeristy of Otago, New Zealand,  2021 (expected March) 
+* M.B.A (Finance), University of Minnesota, U.S., 2015 
+* B.S. in International Business Economics, Foreign Trade University, Vietnam, 2010
+
 
 Work experience
 ======
