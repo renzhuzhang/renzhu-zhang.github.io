@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Quyen Nguyen personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am currently in my final year in the Finance PhD program at the department of Accountancy & Finance in the University of Otago. 
 
 My research topic focuses on assessing the impact of climate change to financial stability. 
