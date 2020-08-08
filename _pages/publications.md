@@ -36,10 +36,10 @@ Greater South Dunedin (GSD) has been identified as one of the most vulnerable ar
 **Recommended citation:** `Nguyen, Q., Diaz-Rainey, I., Moore T., Thornes P., Cox S., McKenzie L. and Stirk-Wang, L. (2020), "Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Methods Approach".  Working Paper. Available on SSRN.`
 
 **Presentation:**
-•	GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize. Received “honourable mention” when prize was announced
-•	Presented at the GIS @ Otago Symposium, University of Otago, July 2019 
-•	Presented to the Planning Team of Dunedin City Council, March 2019 
-•	Presented at the 12th OERC Energy & Climate Change Symposium, University of Otago, November 2018  
+*	GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize. Received “honourable mention” when prize was announced
+* Presented at the GIS @ Otago Symposium, University of Otago, July 2019 
+* Presented to the Planning Team of Dunedin City Council, March 2019 
+* Presented at the 12th OERC Energy & Climate Change Symposium, University of Otago, November 2018  
 
 
 ### Climate Transition Risk in U.S. Loan Portfolios: Are All Banks The Same? (2020) ###
