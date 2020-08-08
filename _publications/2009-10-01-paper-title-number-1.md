@@ -12,4 +12,4 @@ This paper uses machine learning to improve the prediction of corporate emission
 
 [Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3617175)
 
-Recommended citation: Nguyen, Q., Diaz-Rainey, I. and Kuruppuarachchi, D. (2020), "Predicting Corporate Carbon Footprints for Climate Risk Analyses–A Machine Learning Approach".  <i>USAEE Working Paper No. 20-450 1</i>. 1(1).
+Recommended citation: Nguyen, Q., Diaz-Rainey, I. and Kuruppuarachchi, D. (2020), "Predicting Corporate Carbon Footprints for Climate Risk Analyses–A Machine Learning Approach".  <i>USAEE Working Paper No. 20-450</i>.
