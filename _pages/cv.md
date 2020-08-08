@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+{% raw %}
+<button onclick="window.open('/books/book.pdf')">Download</button>
+{% endraw %}
+
+
 []() `quyen.nguyen @ postgrad.otago.ac.nz` `+64 (27) 340 1383`
 
 ## Education
