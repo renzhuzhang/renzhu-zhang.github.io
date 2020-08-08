@@ -22,11 +22,10 @@ This paper uses machine learning to improve the prediction of corporate emission
 **Recommended citation:** `Nguyen, Q., Diaz-Rainey, I. and Kuruppuarachchi, D. (2020), "Predicting Corporate Carbon Footprints for Climate Risk Analyses–A Machine Learning Approach".  USAEE Working Paper No. 20-450. Available on SSRN.`
 
 **Presentation:**
-```
-* Synthesise of paper presented by Diaz-Rainey to OPSWF Research Forum, Élysée Palace, Paris, January 2020
-* Presented at the Department of Accountancy and Finance Seminar Series 2020
-* GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize
-```
+* [x] Synthesise of paper presented by Diaz-Rainey to OPSWF Research Forum, Élysée Palace, Paris, January 2020
+* [x] Presented at the Department of Accountancy and Finance Seminar Series 2020
+* [x] GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize
+
 ### Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Methods Approach (2019) ###
 ---<cite>Quyen Nguyen, Ivan Diaz-Rainey, Tony Moore, Paul Thornes, Simon Cox, Leigh McKenzie, Leon Stirk-Wang</cite>
 
@@ -37,12 +36,11 @@ Greater South Dunedin (GSD) has been identified as one of the most vulnerable ar
 **Recommended citation:** `Nguyen, Q., Diaz-Rainey, I., Moore T., Thornes P., Cox S., McKenzie L. and Stirk-Wang, L. (2020), "Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Methods Approach".  Working Paper. Available on SSRN.`
 
 **Presentation:**
-```
-* GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize. Received “honourable mention” when prize was announced
-* Presented at the GIS @ Otago Symposium, University of Otago, July 2019 
-* Presented to the Planning Team of Dunedin City Council, March 2019 
-* Presented at the 12th OERC Energy & Climate Change Symposium, University of Otago, November 2018  
-```
+* [x] GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize. Received “honourable mention” when prize was announced
+* [x] Presented at the GIS @ Otago Symposium, University of Otago, July 2019 
+* [x] Presented to the Planning Team of Dunedin City Council, March 2019 
+* [x] Presented at the 12th OERC Energy & Climate Change Symposium, University of Otago, November 2018  
+
 
 ### Climate Transition Risk in U.S. Loan Portfolios: Are All Banks The Same? (2020) ###
 ---<cite>Quyen Nguyen, Ivan Diaz-Rainey, Duminda Kuruppuarachchi, Matthew McCarten, Eric K.M. Tan </cite>
@@ -52,8 +50,7 @@ We examine banks’ exposure to climate transition risk using loan-level data an
 **Recommended citation:** `Nguyen, Q., Diaz-Rainey, I., Kuruppuarachchi, D., McCarten M. and Tan E. (2020), "Climate Transition Risk in U.S. Loan Portfolios: Are All Banks The Same".  Working Paper.`
 
 **Presentation:**
-```
-* Synthesise of paper presented by Diaz-Rainey to OPSWF Research Forum, Élysée Palace, Paris, January 2020
-* Presented at the Department of Accountancy and Finance Seminar Series 2019
-```
+* [x] Synthesise of paper presented by Diaz-Rainey to OPSWF Research Forum, Élysée Palace, Paris, January 2020
+* [x] Presented at the Department of Accountancy and Finance Seminar Series 2019
+
 
