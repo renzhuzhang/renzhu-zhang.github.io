@@ -69,10 +69,10 @@ redirect_from:
  
 
 ## Technical Skills
-* **Programming Languages**: `Python` `SAS` `R` `STATA` 
-* **Data Analysis**: `Machine Learning` `Econometric Analysis` `Credit Risk Modelling` `Financial Stress Testing`  `Agent Based Modelling` `Risk assessment`
+* **Programming Languages**: `Python` `SAS` `R` `STATA` `ArcGIS` `NetLogo` 
+* **Data Analysis**: `Machine learning` `Econometric analysis` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
 * **Finance Modelling & Equity Research**: `Bloomberg` `Facset` `DataStream` `Thomson Reuters Eikon`
-* **Miscellaneous**: `ArcGIS` `NetLogo` 
+* **Miscellaneous**: `Agent based modelling` `Spatial modelling`
 
 ## Services & Leadership
 **Southern Heritage Trust** (Dunedin, New Zealand)    | *Financial Volunteer Consultant* | March 2018 – Present\
