@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[]() `quyen.nguyen @ postgrad.otago.ac.nz` `+64 (27) 340 1383`
+
 ## Education
 **University of Otago** (Dunedin, New Zealand)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March)\
@@ -24,7 +26,7 @@ redirect_from:
   * Explored the applications of machine-learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests to proxy for climate risk in finance 
   * Developed a bottom-up financial stress test to examine the potential risks of US banks across climate scenarios using lending activities in the corporate loan portfolios 
   * Analyzed the impact of climate risks on firm-level creditworthiness using probability of defaults, credit rating and credit default swap 
-  * Supervisor: [Associate Professor Ivan Diaz-Rainey](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html), [Dr Duminda Kuruppuarachchi](https://www.otago.ac.nz/accountancyfinance/staff/otago689207.html), and [Dr Matthew McCartern](http://matthewmccarten.com/)
+ 
 
 &nbsp;&nbsp;&nbsp;*Research Assistant, Sea Level Rise Stranded Assets Project*, October 2018 - Present 
   * Analyzed the price effect of 2015 June Flood on South Dunedin residential properties 
@@ -64,12 +66,10 @@ redirect_from:
  
 
 ## Technical Skills
-* Data mining (SAS, Python, R) 
-* Empirical econometric analysis (STATA)
-* Predictive analysis and machine learning (Scikit Learn) 
-* Geographic spatial analysis (ArcGIS) 
-* Equity research and modelling (Bloomberg,  Factset, DataStream, Thomson Reuters Eikon) 
-* Risk assessment 
+* **Programming Languages**: `Python` `SAS` `R` `STATA`
+* **Data Analysis**: `Machine Learning` `Econometric Analysis` `Credit Risk Modelling` `Financial Stress Testing`
+* **Finance Modelling & Equity Research**: `Bloomberg` `Facset` `DataStream` `Thomson Reuters Eikon`
+* **Miscellaneous**: `ArcGIS` `Risk assessment`
 
 ## Working Papers & Publications
 **Climate Risks in Loan Portfolios** (Working Paper, May 2020)
@@ -82,9 +82,7 @@ redirect_from:
 * This paper examines the impacts of sea level rise on the values of the Dunedin residential properties. The analysis includes two core components. The first component analyzes the impact of 2015 June Flood on the local house prices. The second component models the impact of sea level rises on the probability of flooding using a bathtub model with Monte Carlo simulation and geographic information system (ArcGIS). 
 
 ## Services & Leadership
-**Southern Heritage Trust** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;&nbsp;Financial Volunteer Consultant,  March 2018 – Present\
-**Nonviolent Peaceforce** (Minnesota, United States)\
-&nbsp;&nbsp;&nbsp;&nbsp;M.B.A., Financial Volunteer Consultant, Jun 2014- Oct 2014
+**Southern Heritage Trust** (Dunedin, New Zealand)    | *Financial Volunteer Consultant* | March 2018 – Present\
+**Nonviolent Peaceforce** (Minnesota, United States)  | *Financial Volunteer Consultant* | Jun 2014- Oct 2014
 
 
