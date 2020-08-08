@@ -58,7 +58,7 @@ redirect_from:
   * Performed ad-hoc financial modeling to support executive decisions on projects (such as renovate clinician compensation structure, expansion in ancillary services and durable medical equipment, pricing for optical products). 
 
 **Minnesota Historical Society** (Minnesota, United States)\
-&nbsp;&nbsp;&nbsp;*Assistant Finance Manager*, October 2014- July 2015 
+&nbsp;&nbsp;&nbsp;*Finance Risk Management Intern *, October 2014- July 2015 
   * Conducted annual financial risk report for the institution.  Researched insurance coverage, analyzed insurance premium, asset value and loss. Interviewed business owners on risk mitigation plans, benchmarked with other institutions and state insurance plans.   
   
 **Intel Corporation** (Ho Chi Minh, Vietnam)\
