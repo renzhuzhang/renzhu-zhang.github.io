@@ -15,7 +15,7 @@ I am currently in my final year in the Finance PhD program in the Climate and En
 
 My research focuses on the impact of climate change on financial stability. Specifically, it involves the assessment of transtional risks (i.e. carbon emissions) and phyiscal risks (i.e. sea level rise) on the largest U.S. banks. This involves a mix of cross-discipline techniques, from credit risk analysis, spatial modelling,  machine learning prediction and financial stress testing. 
 
-Prior to the graduate program, I have five years of working experience in insurance, finance & data analytics in the United States and in Vietnam. This includes 3 years in risk management role at Intel Vietnam (2010-2013), 1 year in data analytics at MD24 USA (2015-2016), 1 year in corporate finance in Pfizer Vietnam (2016-2017). I also interned at the Ministry for the Environment last summer (Nov 2019 - Feb 2020). 
+Prior to the graduate program, I have five years of working experience in insurance, finance & data analytics in the United States and in Vietnam. This includes 3 years in risk management role at Intel Vietnam (2010-2013), 1 year in data analytics at MD24 USA (2015-2016), 1 year in corporate finance in Pfizer Vietnam (2016-2017). I also interned at the Ministry for the Environment New Zealand last summer (Nov 2019 - Feb 2020). 
 
 `Finance` is my specialty. During my MBA program, I worked as a student equity analyst for Carlson Investment Fund. This is a student investment fund that manages US$ 20 million in total asset under management with focus on small cap stocks. I have completed the CFA Level I in 2015, and I have worked as a teaching assistant for several 200 and 300-level finance classes.  
 
