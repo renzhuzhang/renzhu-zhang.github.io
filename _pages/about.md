@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in my final year in the Finance PhD program in the University of Otago, New Zealand. My thesis title is `"Climate Risks in Financial Institutions"`, under the supervision of: 
+I am currently in my final year in the Finance PhD program in the Climate and Energy Finance Group [(CEF Group)](https://blogs.otago.ac.nz/cefg/about-us/), University of Otago, New Zealand. My thesis title is `"Climate Risks in Financial Institutions"`, under the supervision of: 
 * Associate Professor Ivan Diaz-Rainey, *University of Otago, NZ*  [(Homepage)](https://www.otago.ac.nz/accountancyfinance/staff/otago032953.html)
 * Dr Duminda Kuruppuarachchi, *University of Otago, NZ*  [(Homepage)](https://www.otago.ac.nz/accountancyfinance/staff/otago689207.html)
 * Dr Matthew McCarten, *University of Oxford, UK* [(Homepage)](http://matthewmccarten.com/). 
