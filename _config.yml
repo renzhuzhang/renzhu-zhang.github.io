@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quyen Nguyen/ Climate Finance Researcher"
+title                    : "Quyen Nguyen/ Climate Finance"
 title_separator          : "-"
 name                     : &name "Quyen Nguyen"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.nz/citations?user=zCEcVrIAAAAJ&hl=en"
-  email            : "quyen.nguyen@postgrad.otago.ac.nz"
+  email            : "quyen.nguyen@otago.ac.nz"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
