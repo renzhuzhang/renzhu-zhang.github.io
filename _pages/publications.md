@@ -47,7 +47,7 @@ Corporations have come under pressure from investors and other stakeholders to d
 **Presentations [\* co-author]:**
 - \[Synthesis\] One Planet Sovereign Wealth Funds Research Forum *(Paris, 2020)*\*
 - Department of Accountancy and Finance Seminar Series *(University of Otago, 2020)*
-- GRASFI 2019 Conference *(University of Oxford, 2019)* - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize
+- GRASFI 2019 Conference *(University of Oxford, 2019)* - **shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize**
 
 
 
