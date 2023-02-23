@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a postdoctoral fellow for the STRAND Marsden project (2021-2024) at the University of Otago, modelling the changes in climate-change flooding-related risks and how these risks may affect residential property values and the financial stability of New Zealand. 
+Currently, I am a postdoctoral fellow for the *STRAND Marsden project* [(Link)](https://blogs.otago.ac.nz/strandproject/) (2021-2024) at the University of Otago, modelling the changes in climate-change flooding-related risks and how these risks may affect residential property values and the financial stability of New Zealand. 
 
 University of Otago is also where I finish my PhD thesis entitled `"Climate Risks in Financial Institutions"`, under the supervision of: 
 * Professor Ivan Diaz-Rainey, *Griffith University, AU*  [(Homepage)](https://experts.griffith.edu.au/40505-ivan-diazrainey)
