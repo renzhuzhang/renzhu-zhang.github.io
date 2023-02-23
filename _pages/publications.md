@@ -41,6 +41,19 @@ We take advantage of a combination of a severe weather event from 3 to 4 June 20
 - Presented to the Planning Team of Dunedin City Council, March 2019 
 - Presented at the 12th OERC Energy & Climate Change Symposium, University of Otago, November 2018  
 
+### Predicting corporate carbon footprints for climate finance risk analyses: a machine learning approach (2021) ###
+---<cite>Quyen Nguyen, Ivan Diaz-Rainey, & Duminda Kuruppuarachchi</cite>
+
+Corporations have come under pressure from investors and other stakeholders to disclose and reduce their greenhouse gas emissions (GHG). Corporate GHG footprints, proxying for transition risk, are dominated by carbon emissions from energy use. Thus the growing attention on the carbon emissions of corporations from, principally, their energy use, motivates firms to invest in energy efficiency and renewable energy. However, only a subset of corporations disclose their GHG/carbon footprints. This paper uses machine learning to improve the prediction of corporate carbon emissions for risk analyses by investors. We introduce a two-step framework that applies a Meta-Elastic Net learner to combine predictions from multiple base-learners as the best emission prediction approach. It results in an accuracy gain based on mean absolute error of up to 30% as compared with the existing models. We also find that prediction accuracy can be further improved by incorporating additional predictors (energy production/consumption data) and additional firm disclosures in particular sectors and regions. This provides an indication of where policymakers should concentrate their efforts for greater level of disclosure.
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0140988321000347)
+
+**Recommended citation:** `Nguyen, Q., Diaz-Rainey, I., & Kuruppuarachchi, D. (2021). Predicting corporate carbon footprints for climate finance risk analyses: a machine learning approach. Energy Economics, 95, 105129.`
+
+**Presentation:**
+- Synthesise of paper presented by Diaz-Rainey to OPSWF Research Forum, Élysée Palace, Paris, January 2020
+- Presented at the Department of Accountancy and Finance Seminar Series 2020
+- GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize
 
 ### Climate Transition Risk in U.S. Loan Portfolios: Are All Banks The Same? (2020) ###
 ---<cite>Quyen Nguyen, Ivan Diaz-Rainey, Duminda Kuruppuarachchi, Matthew McCarten, Eric K.M. Tan </cite>
