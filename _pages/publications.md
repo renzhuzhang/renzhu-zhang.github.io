@@ -25,18 +25,16 @@ We take advantage of a combination of a severe weather event from 3 to 4 June 20
 - Sustainable Finance and Investment Seminar *(Stanford University & Online, 2022)* 
  
 ____________________________________________________________________________________________________________________________________________________________________
-### Price recovery after the flood: risk to residential property values from climate change‐related flooding. (2022) ###
+#### Nguyen, Q., Thorsnes, P., Diaz‐Rainey, I., Moore, A., Cox, S., & Stirk‐Wang, L. (2022). [Price recovery after the flood: risk to residential property values from climate change‐related flooding.](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8489.12471) *Australian Journal of Agricultural and Resource Economics*, 66(3), 532-560.  ####
 ---<cite>Quyen Nguyen, Paul Thorsnes, Ivan Diaz-Rainey, Antoni Moore, Simon Cox, Leon Stirk-Wang</cite>
 
 We take advantage of a combination of a severe weather event from 3 to 4 June 2015 and a local policy, to investigate the housing market response to climate change-related flooding hazard. The study focuses on a residential area in a low-lying coastal suburb of Dunedin, New Zealand, where the groundwater level is shallow and close to sea level. An unusually heavy rain event in June 2015 resulted in flooding of a significant portion of land in especially low-lying areas. The city council responded by reviewing processes for storm-water management and by imposing minimum-floor-level [MFL] requirements on new construction in the low-lying areas previously identified as at risk of flooding. Applying a ‘diff-in-diff-in-diff’ strategy in hedonic regression analyses, we find that houses in the MFL zone sell for a discount of about 5 per cent prior to the flood. This discount briefly tripled in the area that flooded, but disappeared within 15 months, indicating either very short memory among homebuyers or no long-run change in perception of hazard.
 
-[Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-8489.12471)
-
 **Presentation:**
-- GRASFI 2019 Conference, University of Oxford - shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize. Received “honourable mention” when prize was announced
-- Presented at the GIS @ Otago Symposium, University of Otago, July 2019 
-- Presented to the Planning Team of Dunedin City Council, March 2019 
-- Presented at the 12th OERC Energy & Climate Change Symposium, University of Otago, November 2018  
+- GRASFI 2019 Conference *(University of Oxford, 2019)* - **shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize**
+- GIS @ Otago Symposium *(University of Otago, 2019)* 
+- The Planning Team *(Dunedin City Council, 2019)* 
+- The 12th OERC Energy & Climate Change Symposium *(University of Otago, 2018)*   
 
 ____________________________________________________________________________________________________________________________________________________________________
 #### Nguyen, Q., Diaz-Rainey, I., & Kuruppuarachchi, D. (2021). [Predicting corporate carbon footprints for climate finance risk analyses: a machine learning approach.](https://www.sciencedirect.com/science/article/pii/S0140988321000347) *Energy Economics*, 95, 105129. ####
