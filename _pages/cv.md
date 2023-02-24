@@ -27,7 +27,7 @@ redirect_from:
 
 ## Experience
 **University of Otago** (Dunedin, New Zealand)                                                                                 
-&nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  Mar 2021 – now
+&nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  March 2021 – now
 * Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project 
 * Developed machine learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in finance. Research has been adopted and commercialised by leading industry practitioners (BNP Paribas, EMMI, NZ Superfund) 
 * Proposed and developed teaching curriculum for Master in Finance FINC499 paper “Advanced modelling of climate finance risks”/ led lab sessions for School of Surveying SURV 208 paper “Introduction of Geographic Information System” 
@@ -61,7 +61,7 @@ redirect_from:
   * Performed ad-hoc financial modeling to support executive decisions on projects (such as renovate clinician compensation structure, expansion in ancillary services and durable medical equipment, pricing for optical products). 
 
 **Carlson Growth Fund, University of Minnesota** (Arizona, United States)\
-&nbsp;&nbsp;&nbsp;*Equity Investment Analyst*, Jan 2014 – May 2015
+&nbsp;&nbsp;&nbsp;*Equity Investment Analyst*, January 2014 – May 2015
   * Analysed, pitched and made sell/hold/buy recommendations of small cap stocks in university investment fund with US$ 20 million in total asset under management.
   * Prepared monthly net asset values statements for investors
 
