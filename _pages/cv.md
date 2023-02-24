@@ -18,7 +18,7 @@ redirect_from:
 
 ## Education
 **University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance, Department of Accountancy and Finance,  2021 (expected March)\
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance, Department of Accountancy and Finance,  2021\
 **University of Minnesota** (Minnesota, United States)\
 &nbsp;&nbsp;&nbsp;&nbsp;M.B.A., Carlson Fund Enterprise, 2015\
 **Foreign Trade University** (Ho Chi Minh, Vietnam), 2010\
