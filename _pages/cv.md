@@ -27,10 +27,14 @@ redirect_from:
 
 ## Experience
 **University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;*Ph.D.Researcher, Climate Risks in Financial Institutions*, February 2018 - Present 
-  * Explored machine-learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in  finance
-  * Developed a bottom-up financial stress test to examine the potential losses incurred by US banks across climate scenarios in their corporate loan portfolios 
-  * Analyzed the impact of climate risks on firm-level creditworthiness, credit ratings and credit default swap spreads 
+                                                                                 
+&nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  Mar 2021 – now
+* Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project 
+* Developed machine learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in finance. Research has been adopted and commercialised by leading industry practitioners (BNP Paribas, EMMI, NZ Superfund) 
+* Proposed and developed teaching curriculum for Master in Finance FINC499 paper “Advanced modelling of climate finance risks”/ led lab sessions for School of Surveying SURV 208 paper “Introduction of Geographic Information System” 
+* Side project 1: Analysed carbon washing activities in the United States context (collaborators: Stanford University)
+* Side project 2: Automated the extraction process of US-SEC initial public offering filings and analysed the performance of green firms (collaborators: Edinburg University and UCD Smurfit). 
+
  
 &nbsp;&nbsp;&nbsp;*Research Assistant, Sea Level Rise Stranded Assets Project*, October 2018 - Present 
   * Analyzed the price effect of 2015 June Flood on South Dunedin residential properties 
@@ -52,10 +56,16 @@ redirect_from:
   * Led yearly budget and planning activities with the commercial team 
 
 **MD24 House Call (Healthcare)** (Arizona, United States)\
-&nbsp;&nbsp;&nbsp;*Assistant Finance Manager*, July 2015 – June 2016 
+&nbsp;&nbsp;&nbsp;*Senior Business Analyst*, July 2015 – June 2016 
   * Led a team of 3 junior analysts to develop a business analysis framework to review key performance indicators on patient visits, market growth, bill collection and patient care
   * Managed the IT project to develop the first-of-its-kind real-time dashboard for the management team to oversee business performance and  communicate with clinicians on visits, reimbursements and payroll 
   * Performed ad-hoc financial modeling to support executive decisions on projects (such as renovate clinician compensation structure, expansion in ancillary services and durable medical equipment, pricing for optical products). 
+
+**Carlson Growth Fund, University of Minnesota** (Arizona, United States)\
+&nbsp;&nbsp;&nbsp;*Equity Investment Analyst*, Jan 2014 – May 2015
+  * Analysed, pitched and made sell/hold/buy recommendations of small cap stocks in university investment fund with US$ 20 million in total asset under management.
+  * Prepared monthly net asset values statements for investors
+
 
 **Minnesota Historical Society** (Minnesota, United States)\
 &nbsp;&nbsp;&nbsp;*Finance Risk Management Intern *, October 2014- July 2015 
