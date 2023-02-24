@@ -26,8 +26,7 @@ redirect_from:
 
 
 ## Experience
-**University of Otago** (Dunedin, New Zealand)\
-                                                                                 
+**University of Otago** (Dunedin, New Zealand)                                                                                 
 &nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  Mar 2021 – now
 * Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project 
 * Developed machine learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in finance. Research has been adopted and commercialised by leading industry practitioners (BNP Paribas, EMMI, NZ Superfund) 
@@ -68,7 +67,7 @@ redirect_from:
 
 
 **Minnesota Historical Society** (Minnesota, United States)\
-&nbsp;&nbsp;&nbsp;*Finance Risk Management Intern *, October 2014- July 2015 
+&nbsp;&nbsp;&nbsp;*Finance Risk Management Intern*, October 2014- July 2015 
   * Conducted annual financial risk report for the institution.  Researched insurance coverage, analyzed insurance premium, asset value and loss. Interviewed business owners on risk mitigation plans, benchmarked with other institutions and state insurance plans.   
   
 **Intel Corporation** (Ho Chi Minh, Vietnam)\
