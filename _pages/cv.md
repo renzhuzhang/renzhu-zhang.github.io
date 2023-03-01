@@ -10,81 +10,76 @@ redirect_from:
 {% include base_path %}
 
 {% raw %}
-<button onclick="window.open('/files/Quyen%20Nguyen_Resume%2008022020.pdf')">Download</button>
+<button onclick="window.open('/files/xxx_CV.pdf')">Download</button>
 {% endraw %}
 
 
-[]() `quyen.nguyen @ postgrad.otago.ac.nz` `+64 (27) 340 1383`
+[]() `renzhu.zhang0111 [at] gmail.com` `+64 21 4917 441`
 
 ## Education
-**University of Otago** (Dunedin, New Zealand)\
-&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance, Department of Accountancy and Finance,  2021\
-**University of Minnesota** (Minnesota, United States)\
-&nbsp;&nbsp;&nbsp;&nbsp;M.B.A., Carlson Fund Enterprise, 2015\
-**Foreign Trade University** (Ho Chi Minh, Vietnam), 2010\
-&nbsp;&nbsp;&nbsp;&nbsp;B.S. International Business Economics, 2010
+University of Otago (Dunedin, New Zealand), Mar 2017 - Aug 2020\
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance\
+University of Edinburgh (Edinburgh, Scotland, United Kingdom), Sep 2015 - Nov 2016\
+&nbsp;&nbsp;&nbsp;&nbsp;MSc Financial Management\
+Nanjing Audit University (Nanjing, China), Sep 2010 - Jun 2015\
+&nbsp;&nbsp;&nbsp;&nbsp;BA Finance
 
 
-## Experience
-**University of Otago** (Dunedin, New Zealand)                                                                                 
-&nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  March 2021 – now
-* Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project 
-* Developed machine learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in finance. Research has been adopted and commercialised by leading industry practitioners (BNP Paribas, EMMI, NZ Superfund) 
-* Proposed and developed teaching curriculum for Master in Finance FINC499 paper “Advanced modelling of climate finance risks”/ led lab sessions for School of Surveying SURV 208 paper “Introduction of Geographic Information System” 
-* Side project 1: Analysed carbon washing activities in the United States context (collaborators: Stanford University)
-* Side project 2: Automated the extraction process of US-SEC initial public offering filings and analysed the performance of green firms (collaborators: Edinburg University and UCD Smurfit). 
+## Employment
+**Toitū Tahua: Centre for Sustainable Finance** (Auckland, New Zealand)\
+&nbsp;&nbsp;&nbsp;Engagement Associate, Mar 2023 - now
+  * Managing calendars and providing administrative support to the CEO.
+  * Liaising with the office of various CEOs and Ministers and supporting trusted relationships with key stakeholders.
+  * Coordinating and managing an agile project plan.
+  * Managing an online community platform and stakeholder communications.
+  * Overseeing key events, including budget management and reporting.
+  * Undertaking research and analysis as scoped and agreed with the CEO.
 
+**Univeristy of Otago** (Dunedin, New Zealand)                                                                                 
+&nbsp;&nbsp;&nbsp;Strategic Postdoctoral Fellow \[Sustainable Finance\],  Mar 2021 – Feb 2023
+  * Supported CEFGroup Directors in pursuing funding and commercial opportunities: Led the organisation of CEFGroup professional training courses, targeting paying customers from business and government.
+  * Managed CEFGroup and related activities and events: Supported the organisation of numerous events including the Assembly of Investment Chairs (AOIC), the CEFGroup Climate Finance Symposium, and CEFGroup webinars/ public lectures; provided administration support to CEFGroup Directors incl. managing CEFGroup LinkedIn/ YouTube channel, and updating CEFGroup website and contact database.
+  * Lectured and tutored on Finance 300-/900-level papers: Lectured Financial Markets and Institutions and assisted in course management, material development, banking simulation, and exam setting and marking; tutored Sustainable Investing Bloomberg lab sessions; guest lectured Socially Responsible Business.
+  * Supervised at Masters level in the area of Sustainable Finance.
+  * Collaborated on several research projects: See Working Papers for more details.
  
-&nbsp;&nbsp;&nbsp;*Research Assistant, Sea Level Rise Stranded Assets Project*, October 2018 - Present 
-  * Analyzed the price effect of 2015 June Flood on South Dunedin residential properties 
-  * Generated sea level rise flooding maps using Monte Carlo simulation in ArcGIS 
+&nbsp;&nbsp;&nbsp;Teaching Assistant, Feb 2018 - Nov 2021
+  * Courses Tutored: FINC320 Sustainable Investing [*S2-2022*], FINC304 Financial Markets and Institutions [*S1-2018;2019;2020;2021;2022*], FINC206 Fundamentals of Corporate Finance [*S2-2019*], FINC202 Investment Analysis and Portfolio Management [*S1&S2-2019*].
+  * Collaborated with students to identify educational goals, and initiated strategies to keep plans on track.
+  * Tailored courses to meet goals and objectives of each student.
+  * Coached students through challenging material with positive reinforcement and encouragement.
+  * Recorded student progress and tutoring session details.
+  * Reviewed, evaluated, and marked assignments and examinations.
 
-&nbsp;&nbsp;&nbsp;*Teaching Assistant & Private Tutor*, October 2018 - Present 
-  * Acted as a teaching assistant for two tutorial sessions in 300-level class ‘Financial markets and institutions’. Prepared tutorial materials and supported students on academic problems.  
-  * Acted as a private tutor for 200-level classes ‘Investment analysis’ and ‘Fundamentals of corporate finance’ for the ‘Disability information and support’ center.
+&nbsp;&nbsp;&nbsp;Research Assistant, Jul 2017 - Feb 2023
+  * Worked on multiple research projects for the following faculty members: AP Helen Roberts, AP Fiona Edgar, Dr. Dinithi Ranasinghe, Dr. Xingfeng Ruan, Dr. Xing Han, AP Ivan Diaz-Rainey, Dr. Eric Tan, and AP Daisy Chou.
+  * Collected data from company annual reports and finance database.
+  * Executed quantitative analysis by utilizing Stata regularly on a wide range of data.
+  * Prepared tables, graphs, fact sheets, and written reports summarizing research results.
+  * Shared research findings through publications, presentations, and conferences.
 
-**Ministry for the Environment** (Wellington, New Zealand)\
-&nbsp;&nbsp;&nbsp;*Summer Internship, Agent Based Modelling*, November 2019 - February 2020 
-  * Explored complexity systems/complexity economics to apply to the context of climate change 
-  * Developed an agent based model in NetLogo to simulate the future rural land-use landscape in New Zealand 
+**HSBC** (Nanjing, China)\
+&nbsp;&nbsp;&nbsp;Global Trade and Receivables Finance Intern, Dec 2014 - Jun 2015 
+  * Strengthened commercial awareness and knowledge of industry by working with colleagues to compile Letters of Credit, Banker's Acceptance Bills, and Trade Acceptance drafts.
+  * Worked with multiple teams as necessary to complete manager's requests on schedule.
+  * Consistently provided exceptional service and attention to customers and stakeholders.
   
-**Pfizer Vietnam** (Ho Chi Minh, Vietnam)\
-&nbsp;&nbsp;&nbsp;*Assistant Finance Manager*, July 2016 – July 2017 
-  * Performed financial modeling for the commercial team to determine price strategy for new product launch  
-  * Led monthly closing activities and prepared financial statements for management review 
-  * Led yearly budget and planning activities with the commercial team 
+**Industrial and Commercial Bank of China** (Yangzhou, China)\
+&nbsp;&nbsp;&nbsp;Summer Intern, Jun 2013 - Jul 2013
+  * Assisted with client support and sales of financial products.
 
-**MD24 House Call (Healthcare)** (Arizona, United States)\
-&nbsp;&nbsp;&nbsp;*Senior Business Analyst*, July 2015 – June 2016 
-  * Led a team of 3 junior analysts to develop a business analysis framework to review key performance indicators on patient visits, market growth, bill collection and patient care
-  * Managed the IT project to develop the first-of-its-kind real-time dashboard for the management team to oversee business performance and  communicate with clinicians on visits, reimbursements and payroll 
-  * Performed ad-hoc financial modeling to support executive decisions on projects (such as renovate clinician compensation structure, expansion in ancillary services and durable medical equipment, pricing for optical products). 
-
-**Carlson Growth Fund, University of Minnesota** (Arizona, United States)\
-&nbsp;&nbsp;&nbsp;*Equity Investment Analyst*, January 2014 – May 2015
-  * Analysed, pitched and made sell/hold/buy recommendations of small cap stocks in university investment fund with US$ 20 million in total asset under management.
-  * Prepared monthly net asset values statements for investors
-
-
-**Minnesota Historical Society** (Minnesota, United States)\
-&nbsp;&nbsp;&nbsp;*Finance Risk Management Intern*, October 2014- July 2015 
-  * Conducted annual financial risk report for the institution.  Researched insurance coverage, analyzed insurance premium, asset value and loss. Interviewed business owners on risk mitigation plans, benchmarked with other institutions and state insurance plans.   
-  
-**Intel Corporation** (Ho Chi Minh, Vietnam)\
-&nbsp;&nbsp;&nbsp;*Senior Finance Analyst, Risk Management*, April 2013 - July 2013\
-&nbsp;&nbsp;&nbsp;*Finance Analyst, Risk Management*, October 2010 - April 2013
-  * Led annual risk assessment project. Acted as a risk consultant for two critical new  product readiness projects at Intel Vietnam. Led cross-functional custom compliance project to ensure tax-privilege status for the company.  
-  * Analyzed business processes to ensure Sarbane Oxley 404 compliance, recommend process improvements and find cost-saving opportunities. 
+**China Telecom** (Yangzhou, China)\
+&nbsp;&nbsp;&nbsp;Summer Intern, Jul 2012
+  * Assisted in research and data compilation for complex reports on cloud computing and data processing. 
  
 
-## Technical Skills
-* **Programming Languages**: `Python` `SAS` `R` `STATA` `ArcGIS` `NetLogo` 
-* **Data Analysis**: `Machine learning` `Econometric analysis` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
-* **Finance Modelling & Equity Research**: `Bloomberg` `Facset` `DataStream` `Thomson Reuters Eikon`
-* **Miscellaneous**: `Agent based modelling` `Spatial modelling`
+## Skills
+* **Software**: `Eventus` `Lightroom` `Photoship` `Stata` `Tableau`
+* **Finance Database**: `Bloomberg` `CRSP` `CSMAR` `Datastream` `Factiva` `Morningstar` `Refinitiv Eikon` `S&P Capital IQ` `WRDS` `WIND`
+* **Reference Management**: `Endnote`
+* **Operating System**: `Windows` `MacOS`
+* **Application Package**: `Microsoft Office` `Adobe Acrobat`
+* **Language**: `Chinese (native)` `English (fluent)`
 
 ## Services & Leadership
-**Southern Heritage Trust** (Dunedin, New Zealand)    | *Financial Volunteer Consultant* | March 2018 – Present\
-**Nonviolent Peaceforce** (Minnesota, United States)  | *Financial Volunteer Consultant* | June  2014 - October 2014
-
-
+**AISEC** (Cairo, Egypt)    | Volunteer | Jul 2014 – Aug 2014\
