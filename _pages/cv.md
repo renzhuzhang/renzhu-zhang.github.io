@@ -27,6 +27,7 @@ Nanjing Audit University (Nanjing, China), Sep 2010 - Jun 2015\
 
 ## Employment
 **Toitū Tahua: Centre for Sustainable Finance** (Auckland, New Zealand)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;Engagement Associate, Mar 2023 - now
   * Managing calendars and providing administrative support to the CEO.
   * Liaising with the office of various CEOs and Ministers and supporting trusted relationships with key stakeholders.
@@ -35,7 +36,8 @@ Nanjing Audit University (Nanjing, China), Sep 2010 - Jun 2015\
   * Overseeing key events, including budget management and reporting.
   * Undertaking research and analysis as scoped and agreed with the CEO.
 
-**Univeristy of Otago** (Dunedin, New Zealand)                                                                                 
+**Univeristy of Otago** (Dunedin, New Zealand)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;Strategic Postdoctoral Fellow \[Sustainable Finance\],  Mar 2021 – Feb 2023
   * Supported CEFGroup Directors in pursuing funding and commercial opportunities: Led the organisation of CEFGroup professional training courses, targeting paying customers from business and government.
   * Managed CEFGroup and related activities and events: Supported the organisation of numerous events including the Assembly of Investment Chairs (AOIC), the CEFGroup Climate Finance Symposium, and CEFGroup webinars/ public lectures; provided administration support to CEFGroup Directors incl. managing CEFGroup LinkedIn/ YouTube channel, and updating CEFGroup website and contact database.
@@ -59,16 +61,19 @@ Nanjing Audit University (Nanjing, China), Sep 2010 - Jun 2015\
   * Shared research findings through publications, presentations, and conferences.
 
 **HSBC** (Nanjing, China)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;Global Trade and Receivables Finance Intern, Dec 2014 - Jun 2015 
   * Strengthened commercial awareness and knowledge of industry by working with colleagues to compile Letters of Credit, Banker's Acceptance Bills, and Trade Acceptance drafts.
   * Worked with multiple teams as necessary to complete manager's requests on schedule.
   * Consistently provided exceptional service and attention to customers and stakeholders.
   
 **Industrial and Commercial Bank of China** (Yangzhou, China)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;Summer Intern, Jun 2013 - Jul 2013
   * Assisted with client support and sales of financial products.
 
 **China Telecom** (Yangzhou, China)\
+&nbsp;
 &nbsp;&nbsp;&nbsp;Summer Intern, Jul 2012
   * Assisted in research and data compilation for complex reports on cloud computing and data processing. 
  
