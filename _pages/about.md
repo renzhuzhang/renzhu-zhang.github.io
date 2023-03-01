@@ -9,7 +9,7 @@ redirect_from:
 ---
 ![](../images/xxx_logo.jpg)
 
-Welcome to my Github page! I am currently serving as the Engagement Associate at the **Centre for Sustainable Finance: Toitū Tahua**([https://www.sustainablefinance.nz/]). Prior to this, I held the position of Strategic Postdoctoral Fellow at the **Climate and Energy Finance Group (CEFGroup)**([https://blogs.otago.ac.nz/cefg/]), **University of Otago**([https://www.otago.ac.nz/]).
+Welcome to my Github page! I am currently serving as the Engagement Associate at the **Centre for Sustainable Finance: Toitū Tahua**. Prior to this, I held the position of Strategic Postdoctoral Fellow at the **Climate and Energy Finance Group (CEFGroup)**, **University of Otago**.
 
 My primary research interests center around sustainable finance, with applications to corporate finance and financial markets.
 
