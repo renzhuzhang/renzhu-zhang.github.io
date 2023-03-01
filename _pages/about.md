@@ -9,16 +9,13 @@ redirect_from:
 ---
 ![](../images/xxx_logo.jpg)
 
-Welcome to my Github page! I am currently serving as the Engagement Associate at the **Centre for Sustainable Finance: Toitū Tahua**. Prior to this, I held the position of Strategic Postdoctoral Fellow at the **Climate and Energy Finance Group (CEFGroup)**, **University of Otago**.
+<p style='text-align: justify;'>Welcome to my Github page! I am currently serving as the Engagement Associate at the **Centre for Sustainable Finance: Toitū Tahua**. Prior to this, I held the position of Strategic Postdoctoral Fellow at the **Climate and Energy Finance Group (CEFGroup)**, **University of Otago**.</p>
 
-My primary research interests center around sustainable finance, with applications to corporate finance and financial markets.
+<p style='text-align: justify;'>My primary research interests center around sustainable finance, with applications to corporate finance and financial markets.</p>
 
-You can contact me at: renzhu.zhang [at] otago.ac.nz
+<p style='text-align: justify;'>You can contact me at: renzhu.zhang [at] otago.ac.nz</p>
 
 
 {% raw %}
 <button onclick="window.open('/files/xx_cv.pdf')">Download CV</button>
 {% endraw %}
-
-
-
