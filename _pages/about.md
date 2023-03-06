@@ -13,7 +13,7 @@ redirect_from:
 
 <p style='text-align: justify;'>My primary research interests center around sustainable finance, with applications to corporate finance and financial markets.</p>
 
-<p style='text-align: justify;'>You can contact me at: renzhu.zhang [at] otago.ac.nz</p>
+<p style='text-align: justify;'>You can contact me at: renzhu [at] sustainablefinance.nz</p>
 
 
 {% raw %}
