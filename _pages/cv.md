@@ -14,7 +14,7 @@ redirect_from:
 {% endraw %}
 
 
-[]() `renzhu.zhang0111 [at] gmail.com` `+64 21 4917 441`
+[]() `renzhu [at] sustainablefinance.nz` `+64 21 4917 441`
 
 ## Education
 University of Otago (Dunedin, New Zealand), Mar 2017 - Aug 2020\
